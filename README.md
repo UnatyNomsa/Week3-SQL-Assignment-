@@ -1,4 +1,4 @@
-# Week3-SQL-Assignment-
+# Week2-SQL-Assignment-
 -- 1. Retrieve checkNumber, paymentDate, and amount from the payments table
 SELECT checkNumber, paymentDate, amount
 FROM payments;
